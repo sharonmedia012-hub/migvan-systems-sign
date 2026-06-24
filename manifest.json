@@ -1,0 +1,20 @@
+{
+  "name": "סידור עבודה - מתקינים",
+  "short_name": "סידור עבודה",
+  "description": "מגוון מערכות שילוט - סידור עבודה למתקינים",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
